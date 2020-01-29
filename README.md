@@ -12,7 +12,7 @@ Cuja ideia é permitir encontrar desenvolvedores a partir de suas tecnologias.
 
 ## Como Funciona?
 
-Nessa parte [WEB](https://github.com/lyandeveloper/DevRadar-frontend) o usuário coloca o nome de usuário do GitHub, cadastra as tecnologias que trabalha e na parte Longitude e Latitude o usuário não necessita preencher pois automaticamente o navegador pega a localização do mesmo.
+Na parte [WEB](https://github.com/lyandeveloper/DevRadar-frontend) o usuário coloca o nome de usuário do GitHub, cadastra as tecnologias que trabalha e na parte Longitude e Latitude o usuário não necessita preencher pois automaticamente o navegador pega a localização do mesmo.
 ![](src/assets/devradar.png)
 
 Nesta parte Mobile <br/>
@@ -51,6 +51,6 @@ yarn start
    ![](src/assets/print05.png)
 
 5) Altere o endereço IP no src/services/api.js mas não altere o :3333 <br/>
-   ![](src/assets/print05.png)
+   ![](src/assets/api.png)
 
 6) Vá no app Expo no seu smartphone e escaneie o QRCode.
