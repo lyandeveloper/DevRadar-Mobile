@@ -32,19 +32,19 @@ Ao tocar sobre o balão automanticamente redireciona para a página do GitHub do
 1. Crie uma pasta em qualquer lugar da sua máquina e clone a parte [BACKEND](https://github.com/lyandeveloper/DevRadar-Backend) do DevRadar abra no seu editor e no terminal rode o comando
 
 ```sh
-yarn ou npm para instalar as dependências:
+yarn install ou npm install para instalar as dependências:
 ```
 
 2. Depois rode o comando:
 
 ```sh
-yarn dev
+yarn dev ou npm run dev
 ```
 
 3. Agora clone este repositório na mesma pasta que você criou, abra no seu editor e rode o comando:
 
 ```sh
-yarn start
+yarn start ou npm start
 ```
 
 4. Confira o endereço IP do seu dispositvo <br/>
